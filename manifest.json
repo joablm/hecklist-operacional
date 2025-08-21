@@ -1,0 +1,21 @@
+{
+  "name": "Checklist Operacional",
+  "short_name": "Checklist",
+  "description": "Aplicação de checklist para operadores de geradores.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/000000/FFFFFF?text=Icon",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/000000/FFFFFF?text=Icon",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
